@@ -6,7 +6,7 @@
   Graphql Application for HackOverflow project
 </h3>
 
-<p align="center">The best around there!</p>
+<p align="center">The best forum around there!</p>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/DiegoJunges/hackoverflow-api?color=%23FF9000">
@@ -42,7 +42,7 @@
 
 ## 💇🏻‍♂️ About the project
 
-The application have features like posts, the post owner can edit or delete the post, other users can upvote or downvote posts.
+The application is a forum and have features like posts, the post owner can edit or delete the post, other users can upvote or downvote posts.
 
 Infinite scroll has added, and switch mode(dark and light), register, login users too.
 
