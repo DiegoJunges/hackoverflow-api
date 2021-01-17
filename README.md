@@ -40,7 +40,7 @@
   <a href="https://insomnia.rest/run/?label=HackOverflow%20-%20DiegoJunges&uri=https%3A%2F%2Fraw.githubusercontent.com%2FDiegoJunges%2Fhackoverflow-api%2Fmaster%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
-## 💇🏻‍♂️ About the project
+##📑🏻‍♂️ About the project
 
 The application is a forum and have features like posts, the post owner can edit or delete the post, other users can upvote or downvote posts.
 
@@ -96,7 +96,7 @@ $ yarn
 $ cp .env.example .env
 
 # Create the instance of postgreSQL using docker
-$ docker run --name gobarber-postgres -e POSTGRES_USER=docker \
+$ docker run --name postgres -e POSTGRES_USER=docker \
               -e POSTGRES_DB=hackoverflow -e POSTGRES_PASSWORD=docker \
               -p 5432:5432 -d postgres
 
