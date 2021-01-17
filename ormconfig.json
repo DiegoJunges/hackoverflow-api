@@ -5,7 +5,7 @@
   "port": 5432,
   "username": "postgres",
   "password": "docker",
-  "database": "rdtdatabase",
+  "database": "hackoverflow",
   "entities": [
     "./dist/entities/*.js"
   ],
